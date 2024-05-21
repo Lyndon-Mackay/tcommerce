@@ -1,2 +1,6 @@
-A Tauri app I created as part of my learing experience.
-It uses the vue frontend along with Pinia,routing and axios
+#Tcommerce
+
+A Tauri app I created as part of my learning experience.
+It uses the vue frontend along with **Pinia,routing and axios**
+
+It is just a basic commerce store for the fenestraion industry.
